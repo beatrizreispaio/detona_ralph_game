@@ -17,7 +17,7 @@ Cada acerto soma pontos, mas se errar ou demorar, ele some e reaparece em outro 
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="preview.gif" alt="Prévia do jogo Detona Ralph" width="400px">
+  <img src="preview.gif.mp4" alt="Prévia do jogo Detona Ralph" width="400px">
 </p>
 
 
